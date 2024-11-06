@@ -21,7 +21,14 @@ This one is interesting: building COBOL container - https://github.com/IBM/kuber
 
 https://github.com/loveOSS/awesome-cobol
 
+https://github.com/Martinfx/Cobol
 
+https://github.com/opensourcecobol/opensource-cobol
+
+https://github.com/opensourcecobol/opensourcecobol4j  
+
+
+https://github.com/toricls/cobolambda
 
 
 
