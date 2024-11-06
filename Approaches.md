@@ -40,6 +40,11 @@ Visual:
 
 ### Evolution versus Revolution
 
+### Add my article on Pub Sub : 
+
+Kafka Streaming for data migration and database refactoring, Kubernetes Operators, Debezium Source and Sink connectors
+Handling System Space versus User Space tables
+
 ### User Empathy Map
 
 ### What to modernize 
