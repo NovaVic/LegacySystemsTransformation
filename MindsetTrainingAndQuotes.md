@@ -21,4 +21,4 @@ In the midst on change tap into somehting ( like the value of relationship) that
 ― Marianne Williamson, The Gift of Change
 
 " The more things are happening on the outside, the more important it is to find that stillness on the inside. "
-― Marianne Williamson, The Gift of Change: Spiritual Guidance for Living Your Best Life 
+― Marianne Williamson, The Gift of Change
