@@ -14,8 +14,14 @@ https://imaginovation.net/blog/legacy-system-modernization-guide/
 
 
 Repo:
+
 https://github.com/topics/cobol
+
 This one is interesting: building COBOL container - https://github.com/IBM/kubernetes-cobol 
+
+https://github.com/loveOSS/awesome-cobol
+
+
 
 
 
