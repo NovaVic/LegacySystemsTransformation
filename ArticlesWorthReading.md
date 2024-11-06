@@ -40,5 +40,7 @@ https://github.com/jjasghar/COBOL-on-k8s
 
 https://github.com/OlegKunitsyn/gnucobol-debug
 
+https://techdocs.broadcom.com/us/en/ca-mainframe-software/database-management/smart-restart-and-smart-rrsaf/20-1/using-smart-restart/developing-restartable-applications_50/sample-dbcobol-application_53.html
+
 
 
