@@ -1,7 +1,12 @@
 ## List of sample open source /public projects to demo legacy modernization
 
 
-Sample COBOL and translated JAVA code https://www.cms.gov/PricerSourceCodeSoftware
+Sample COBOL and translated JAVA code: https://www.cms.gov/PricerSourceCodeSoftware
+
+COBOL related resources: http://www.semdesigns.com/Products/LanguageTools/COBOLTools.html?Home=COBOLFormatter
+
+Sample code: http://www.semdesigns.com/Products/Formatters/COBOLFileBrowserExample/COBOLFileBrowserExample.html?Home=HoganSystems#
+
 
 https://github.com/legacycoderocks/awesome-legacy-code
 
