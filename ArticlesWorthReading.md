@@ -34,5 +34,7 @@ https://github.com/larandvit/ebcdic-parser
 
 https://github.com/jjasghar/COBOL-on-k8s
 
+https://github.com/OlegKunitsyn/gnucobol-debug
+
 
 
