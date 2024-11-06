@@ -16,4 +16,9 @@ Talk about alpha, theta, gamma brain wave
 Talk about parallel processing in brain (when we are relaxed) versus serial processing (when we are stressed)
 
 
-In the midst on change tap into somehting that never changes -- that is the value of relationship
+In the midst on change tap into somehting ( like the value of relationship) that never changes.
+“The most important thing to remember during times of great change is to fix our eyes anew on the things that don’t change.”
+― Marianne Williamson, The Gift of Change
+
+“The more things are happening on the outside, the more important it is to find that stillness on the inside.”
+― Marianne Williamson, The Gift of Change: Spiritual Guidance for Living Your Best Life 
