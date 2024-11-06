@@ -6,6 +6,8 @@ https://martinfowler.com/articles/legacy-modernization-gen-ai.html
 
 https://modlogix.com/blog/who-still-uses-legacy-software-and-why/
 
+https://neopragma.com/2023/10/a-sidelong-view-of-organizational-transformation-failure/
+
 https://www.csps-efpc.gc.ca/tools/articles/legacy-technology-eng.aspx
 
 https://www.infobridgesolutions.com/services/legacy-software-system
@@ -31,6 +33,8 @@ https://github.com/opensourcecobol/opensourcecobol4j
 https://github.com/toricls/cobolambda
 
 https://github.com/larandvit/ebcdic-parser
+
+https://neopragma.com/projects/
 
 https://github.com/jjasghar/COBOL-on-k8s
 
