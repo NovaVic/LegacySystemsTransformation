@@ -1,5 +1,7 @@
 
 
+https://martinfowler.com/articles/patterns-legacy-displacement/
+
 https://www.csps-efpc.gc.ca/tools/articles/legacy-technology-eng.aspx
 
 https://www.infobridgesolutions.com/services/legacy-software-system
