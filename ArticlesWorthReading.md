@@ -13,7 +13,7 @@ https://www.infobridgesolutions.com/services/legacy-software-system
 https://imaginovation.net/blog/legacy-system-modernization-guide/
 
 
-Repo:
+Some Repos to revisit:
 
 https://github.com/topics/cobol
 
@@ -30,6 +30,9 @@ https://github.com/opensourcecobol/opensourcecobol4j
 
 https://github.com/toricls/cobolambda
 
+https://github.com/larandvit/ebcdic-parser
+
+https://github.com/jjasghar/COBOL-on-k8s
 
 
 
