@@ -2,6 +2,8 @@
 
 https://martinfowler.com/articles/patterns-legacy-displacement/
 
+https://martinfowler.com/articles/legacy-modernization-gen-ai.html
+
 https://modlogix.com/blog/who-still-uses-legacy-software-and-why/
 
 https://www.csps-efpc.gc.ca/tools/articles/legacy-technology-eng.aspx
